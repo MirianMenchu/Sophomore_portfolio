@@ -2,6 +2,7 @@ body {background-color: pink;
      }
 img {
      width: 10%;
+     height: 60%;
      border-style: dotted;
      border-color: white;
      border-size: 10px;
