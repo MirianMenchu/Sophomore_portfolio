@@ -1,8 +1,8 @@
 body {background-color: pink;
      }
 img {
-     width: 50%;
+     width: 10%;
      border-style: dotted;
      border-color: white;
-     border-size: 5px;
+     border-size: 10px;
 }
