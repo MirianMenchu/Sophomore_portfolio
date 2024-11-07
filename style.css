@@ -6,10 +6,10 @@ img {
      border-style: dotted;
      border-color: white;
      border-size: 10px;
+     content-align: center;
 }
 
 p{
      text-align: center;
-     font-style: bold;
 }
 
