@@ -6,6 +6,7 @@ img {
      border-style: dotted;
      border-color: white;
      border-size: 10px;
+     float: center;
 }
 
 p{
