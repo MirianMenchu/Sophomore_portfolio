@@ -1,12 +1,5 @@
 body {background-color: pink;
      }
-img {
-     width: 250px;
-     height: 150px;
-     border-style: dotted;
-     border-color: white;
-     border-size: 10px;
-}
 
 p{
      text-align: center;
