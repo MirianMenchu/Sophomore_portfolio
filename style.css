@@ -1,6 +1,13 @@
 body {background-color: pink;
      }
+h1 {
+  font-family: "Fleur De Leah", cursive;
+  font-weight: 400;
+  font-style: normal;
+font-size:120px;
+}
 
+}
 p{
      text-align: center;
 }
