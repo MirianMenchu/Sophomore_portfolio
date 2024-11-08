@@ -1,4 +1,4 @@
-body {background-color: pink;
+body {background-color: rgb(233, 188, 183);
      }
 h1 {
   font-family: "Fleur De Leah", cursive;
@@ -6,7 +6,8 @@ h1 {
   font-style: normal;
 font-size:120px;
 }
-
+h2 {text-align: center;
+    text-color: rbg(57, 61, 63);
 }
 p{
      text-align: center;
