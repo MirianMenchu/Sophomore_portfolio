@@ -1,1 +1,11 @@
+img {
+     float: left;
+     width: 200px;
+     margin: 10px;
+     border-color: white;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  height: 250px;
+}
 
