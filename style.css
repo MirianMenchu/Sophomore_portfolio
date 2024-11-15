@@ -42,3 +42,14 @@ li a {
 li a:hover {
   background-color: #111;
 }
+
+img {
+     float: left;
+     width: 200px;
+     margin: 10px;
+     border-color: white;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  height: 250px;
+}
