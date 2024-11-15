@@ -44,12 +44,6 @@ li a:hover {
 }
 
 img {
-     float: left;
      width: 200px;
-     margin: 10px;
-     border-color: white;
-  border-width: 2px;
-  border-style: solid;
-  border-radius: 10px;
   height: 250px;
 }
